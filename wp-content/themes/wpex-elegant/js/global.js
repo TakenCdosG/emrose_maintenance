@@ -18,7 +18,7 @@
 		// Mobile Menu
 		$( '#navigation-toggle' ).sidr( {
 			name   : 'sidr-main',
-			source : '#sidr-close, #site-navigation, #mobile-search',
+			source : '#sidr-close, #site-navigation',
 			side   : 'left'
 		} );
 		$( '.sidr-class-toggle-sidr-close' ).click( function() {
