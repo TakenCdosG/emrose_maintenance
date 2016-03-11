@@ -116,6 +116,7 @@ div#logo {
 	overflow: hidden;
 	float: left;
 }
+
 #site-navigation-wrap { width: auto; height: 45px; right: 122px; top: 48px; }
 #site-navigation #menu-main-menu li { height: 45px;  }
 #site-navigation #menu-main-menu a { color: #fffefe; font-family: GillSansBold; font-size: 14px; text-transform: uppercase; }
@@ -153,6 +154,18 @@ div.background-overlay { width: 100%; height: 100%; position: absolute; top: 0; 
 	padding-top: 12px;
 }
 
+
+#site-navigation #menu-main-menu li.current-menu-item:hover{
+	background-color: #327459;
+}
+
+#site-navigation #menu-main-menu li.current-menu-item a{
+	color: #ffffff;
+}
+
+#site-navigation #menu-main-menu li.current-menu-item:hover a{
+	color: #327459;
+}
 
 @media ( max-width: 420px ) {
 	div#logo {
