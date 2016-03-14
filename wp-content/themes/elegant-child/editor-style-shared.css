@@ -1,1 +1,12 @@
 /** These styles are used in the backend editor AND in your Theme. **/
+
+
+.call_to_action{
+    width: 216px;
+    height: 34px;
+    background-color: #6C2C3A;
+    display: block;
+    text-align: center;
+    color: white;
+    padding-top: 12px;
+}
