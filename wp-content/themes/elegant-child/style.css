@@ -144,7 +144,7 @@ div.background-overlay { width: 100%; height: 100%; position: absolute; top: 0; 
 .page-template-basic_page #content { width: 100%; max-width: 893px; height: auto; position: absolute; top: 55px; left: 50%; margin-left: -446px; background-color: #dadadb; box-shadow: 0px 0px 5px rgba(61, 60, 58, 0.63); padding: 37px 69px 17px 69px; box-sizing: border-box; }
 .rollover-regular-text strong { color: #fffefe; }
 ol, ul {list-style-type: disc; color:#3d3c3a; font-size: 15px;}
-ul.estate-bullets{ margin-left: 4%; }
+ul.estate-bullets{ margin-left: 4%; margin-bottom: 15px; }
 
 
 #site-navigation #menu-main-menu li.current-menu-item ul li a{
