@@ -26,7 +26,7 @@ $home_url           = home_url(); ?>
 
         <?php if ( $logo_img ) : ?>
 
-            <a href="<?php echo $home_url; ?>" title="<?php echo $blog_name; ?>" rel="home">
+            <a href="http://emrose.net" title="<?php echo $blog_name; ?>" rel="home">
                 <img src="<?php echo $logo_img; ?>" alt="<?php echo $blog_name; ?>" height="" width="" />
             </a>
 
@@ -34,7 +34,7 @@ $home_url           = home_url(); ?>
 
             <div class="site-text-logo clr">
             
-                <a href="<?php echo $home_url; ?>" title="<?php echo $blog_name; ?>" rel="home">
+                <a href="http://emrose.net" title="<?php echo $blog_name; ?>" rel="home">
                     <?php echo $blog_name; ?>
                 </a>
 

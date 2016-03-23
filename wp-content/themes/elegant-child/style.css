@@ -155,6 +155,18 @@ ul.estate-bullets{ margin-left: 4%; margin-bottom: 15px; }
 	color: #327459;
 }
 
+#menu-item-35 a{
+    color: #327459 !important;
+}
+
+#menu-item-35 .sub-menu a{
+    color: #fffefe !important;
+}
+
+#menu-item-35 .sub-menu .current-menu-item a{
+    color: #327459 !important;
+}
+
 .color-overlay{
     height: 100%;
     position: fixed;
@@ -167,6 +179,10 @@ ul.estate-bullets{ margin-left: 4%; margin-bottom: 15px; }
 
 .color-overlay::after{
     background-color: #327;
+}
+
+.submit-btn{
+    background-color: #327459;
 }
 
 @media ( max-width: 420px ) {
