@@ -25,7 +25,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 			<div id="rollover-wrapper">
 				<div id="rollover-info">
 					<?php
-						$query = new Wp_Query( array('post_type' => 'page', 'post__in' => array (29, 31, 33)));
+						$query = new Wp_Query( array('post_type' => 'page', 'post__in' => array (78, 80, 82)));
 						
 						$k = 0;
 						// The Loop
