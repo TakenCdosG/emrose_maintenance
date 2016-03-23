@@ -18,16 +18,18 @@ get_header(); ?>
 			
 			<?php $bg_image = get_field("background_image"); ?>
 				
-			<img class="image-overlay" src="<?php echo $bg_image['url']; ?>" alt="<?php echo $bg_image['alt']; ?>" title="<?php echo $bg_image['title']; ?>" />
-			
-			<div class="background-overlay" style="background-color: <?php the_field("background_color"); ?>"></div>
+			<div class="color-overlay" style=" background-image: url(<?php echo $bg_image['url']; ?>)">
+                <div class="background-overlay" style="background-color: <?php the_field("background_color"); ?>"></div>
+            </div>
+
+
 				
 			<main id="content" class="site-content" role="main">
-				
+
 				<h1><?php the_title(); ?></h1>
-				
+
 				<?php the_content(); ?>
-				
+
 			</main><!-- #content -->
 
 		<?php endwhile; ?>
