@@ -188,6 +188,13 @@ ul.estate-bullets{ margin-left: 4%; margin-bottom: 15px; }
     background-color: #327459;
 }
 
+@media screen and (min-width: 320px) and (max-width: 420px){
+    #logo img{
+        height: auto;
+        width: 170px;
+    }
+}
+
 @media ( max-width: 420px ) {
 	div#logo {
 		width: 220px;
