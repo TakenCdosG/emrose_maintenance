@@ -139,7 +139,7 @@ div.rollover-item .rollover-title-text { line-height: 38px; }
 .page-template-basic_page #main { width: 100%; padding: 0; position: relative; }
 img.image-overlay { width: 100%; height: 100%; }
 div.background-overlay { width: 100%; height: 100%; position: absolute; top: 0; opacity: .75; }
-#content h1 { margin: 0; font-family: helvetica_neuebold; font-size: 20px; color: #327459; }
+#content h1 { margin: 0; font-family: helvetica_neuebold; font-size: 25px; color: #327459; margin-bottom: 10px; }
 #content p { font-family: helvetica_neueregular; font-size:15px; color: #3d3c3a; }
 .page-template-basic_page #content { width: 100%; max-width: 893px; height: auto; position: absolute; top: 55px; left: 50%; margin-left: -446px; background-color: #dadadb; box-shadow: 0px 0px 5px rgba(61, 60, 58, 0.63); padding: 37px 69px 17px 69px; box-sizing: border-box; margin-bottom: 50px; }
 .rollover-regular-text strong { color: #fffefe; }
