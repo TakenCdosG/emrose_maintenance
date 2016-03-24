@@ -71,7 +71,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 					</form>
 				</div>
 				<div id="rollover-firm">
-					©2016 E.M. Rose Builders, Inc. All rights reserved. Site developed by <a href="http://www.thinkcreativegroup.com" target="_blank">think creative group.</a>
+					©2016 E.M. Rose Builders, Inc. All rights reserved. Site developed by <a href="http://www.thinkcreativegroup.com" target="_blank">THINK creative group.</a>
 				</div>
 			</div>
 		</div>
