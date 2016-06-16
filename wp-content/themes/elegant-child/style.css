@@ -188,6 +188,31 @@ ul.estate-bullets{ margin-left: 4%; margin-bottom: 15px; }
     background-color: #327459;
 }
 
+button, input[type="button"], input[type="submit"] {
+    -webkit-appearance: none;
+    background: #327459;
+    border: transparent;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1em;
+    font-weight: 400;
+    outline: none;
+    padding: 0 10px;
+    height: 30px;
+    line-height: 30px;
+    position: relative;
+    font-family: 'Open Sans';
+}
+
+form h2{
+    margin: 35px 0px 17px 0px;
+    font-family: helvetica_neuebold;
+    font-size: 22px;
+    font-weight: normal;
+    color: #327459;
+}
+
 @media screen and (min-width: 320px) and (max-width: 420px){
     #logo img{
         height: auto;
