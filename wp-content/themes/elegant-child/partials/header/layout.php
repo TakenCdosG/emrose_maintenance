@@ -57,7 +57,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 						formId: '39e0942a-2613-4b40-8e2a-9958c0a44ef3'
 					});
 				</script>
-				<div id="rollover-form">
+				<div id="rollover-form" class="social-icons">
 					<form action="http://thinkcreativegroup.createsend.com/t/y/s/xhuyut/" method="post" id="subForm">
 						<table border="0" cellpadding="0" cellspacing="0">
 							<tbody>

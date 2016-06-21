@@ -8,7 +8,7 @@ function about_us() {
 		
 		if (open == 0) {
 			jQuery('div#header-rollover').stop(true, true).animate({
-				height: '472px'
+				height: '670px'
 			}, 1000, function() {
 				jQuery('div#header-rollover').attr('data-open', 1);
 				about_close();
